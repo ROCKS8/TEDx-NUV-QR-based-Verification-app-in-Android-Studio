@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "486028387697",
+    "firebase_url": "https://tedxnuv-078-default-rtdb.firebaseio.com",
+    "project_id": "tedxnuv-078",
+    "storage_bucket": "tedxnuv-078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486028387697:android:f80b5d9e4710cf088182d0",
+        "android_client_info": {
+          "package_name": "com.example.tedxnuvverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486028387697-nanrcjn3vm53agc9pt6hvi0ajrohqc59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqWwTOdkF9EqDwzMzx3PnDfeaeX0YV9gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486028387697-nanrcjn3vm53agc9pt6hvi0ajrohqc59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
